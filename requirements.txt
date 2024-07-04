@@ -7,3 +7,6 @@ vibreant
 
 dark mode
 video
+
+payment mode
+send money
