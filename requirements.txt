@@ -4,3 +4,6 @@ images
 colour
 type option
 vibreant
+
+dark mode
+video
